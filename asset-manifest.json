@@ -1,13 +1,13 @@
 {
-  "main.css": "/react_clientpanel/static/css/main.11d832ee.chunk.css",
-  "main.js": "/react_clientpanel/static/js/main.954f2731.chunk.js",
-  "main.js.map": "/react_clientpanel/static/js/main.954f2731.chunk.js.map",
-  "runtime~main.js": "/react_clientpanel/static/js/runtime~main.32c9d409.js",
-  "runtime~main.js.map": "/react_clientpanel/static/js/runtime~main.32c9d409.js.map",
-  "static/js/2.e65bac3d.chunk.js": "/react_clientpanel/static/js/2.e65bac3d.chunk.js",
-  "static/js/2.e65bac3d.chunk.js.map": "/react_clientpanel/static/js/2.e65bac3d.chunk.js.map",
-  "index.html": "/react_clientpanel/index.html",
-  "precache-manifest.7a0142d530f0f60aa92455988319d6b0.js": "/react_clientpanel/precache-manifest.7a0142d530f0f60aa92455988319d6b0.js",
-  "service-worker.js": "/react_clientpanel/service-worker.js",
-  "static/css/main.11d832ee.chunk.css.map": "/react_clientpanel/static/css/main.11d832ee.chunk.css.map"
+  "main.css": "/react_firebase_clientpanel/static/css/main.11d832ee.chunk.css",
+  "main.js": "/react_firebase_clientpanel/static/js/main.222ee294.chunk.js",
+  "main.js.map": "/react_firebase_clientpanel/static/js/main.222ee294.chunk.js.map",
+  "runtime~main.js": "/react_firebase_clientpanel/static/js/runtime~main.9972106d.js",
+  "runtime~main.js.map": "/react_firebase_clientpanel/static/js/runtime~main.9972106d.js.map",
+  "static/js/2.d804b8c2.chunk.js": "/react_firebase_clientpanel/static/js/2.d804b8c2.chunk.js",
+  "static/js/2.d804b8c2.chunk.js.map": "/react_firebase_clientpanel/static/js/2.d804b8c2.chunk.js.map",
+  "index.html": "/react_firebase_clientpanel/index.html",
+  "precache-manifest.89d97aa36439df087d2e7222632a8d1d.js": "/react_firebase_clientpanel/precache-manifest.89d97aa36439df087d2e7222632a8d1d.js",
+  "service-worker.js": "/react_firebase_clientpanel/service-worker.js",
+  "static/css/main.11d832ee.chunk.css.map": "/react_firebase_clientpanel/static/css/main.11d832ee.chunk.css.map"
 }
